@@ -30,7 +30,7 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-all</artifactId>
-      <version>4.1.33.Final</version><!--  其他版本  4.1.33.Final  -->
+      <version>4.1.42.Final</version><!--  其他版本  4.1.42.Final  -->
     </dependency>
   </dependencies>
 
